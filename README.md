@@ -8,6 +8,6 @@ Nos últimos tempos, participei de uma formação intensiva nesta área através
 
 - 🔭 Nos meus projetos, eu costumo trabalhar com React, Node.js, Typescript, PostgreSQL ou MongoDB;
 - 🌱 Estou aprendendo sobre Docker e AWS;
-- 📫 Você pode me encontrar no <a href="https://www.linkedin.com/in/amandajlfiuza/">Linkedin</a> ou por e-mail: amandafiuza.pj@gmail.com;
+- 📫 Você pode me encontrar no <a href="https://www.linkedin.com/in/amandajlfiuza/">Linkedin</a> ou por e-mail: amandajlfiuza@gmail.com;
 - 👩🏻 Meus pronomes são "ela/dela";
 - ⚽ E um fun fact é que eu AMO futebol e sou fanática pelo Fortaleza Esporte Clube haha.
